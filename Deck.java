@@ -1,4 +1,7 @@
+package Cards;
 import java.util.*;
+
+import Card;
 
 class Deck {
     ArrayList<Card> deck;
